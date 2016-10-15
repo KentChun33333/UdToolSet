@@ -3,5 +3,5 @@
 - kick off : 2016-10-14
 
 # To do List 
-- 
+- TBD
 
