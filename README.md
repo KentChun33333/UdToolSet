@@ -1,10 +1,11 @@
 # Udacity_Tool_Set 
-- Goal : Collect the tool script for udacity reviewer usage
-- Desciption : 80% scripts are basically released by Udacity Officical.
-- kick off : 2016-10-14
+- Goal : Collect the tool-script for udacity reviewer usage
+
 
 # Update logger 
-- api_assign_v2.py is released by udacity offical since about 2016-10-18
+- api_assign_v1.py is released by ud-offical
+- dev api_stdout.py for probing the backend
+- api_assign_v2.py is released by ud-offical
 - add some trained project in nano-project folder
 
 # To do List 
