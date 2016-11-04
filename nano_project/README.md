@@ -1,4 +1,3 @@
 ### Collection 
-
-- Investigate Dataset
-- Client Segmentation
+ - customer_segments
+ - data_Investigation_titanic
